@@ -16,7 +16,7 @@ def setup_package():
         description = ("My App - Python Boilerplate"),
         license = "MIT",
         keywords = "",
-        url = "http://github.com/kishstats/myapp",
+        url = "https://github.com/junandaip/Simple-Python-App",
         install_requires = [],
         long_description=read('README.md'),
         classifiers=[

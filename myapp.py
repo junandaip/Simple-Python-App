@@ -1,6 +1,7 @@
 def run_myapp():
-    print("It works!")
-    return "It works"
+    x = "hore!"
+    print("Berhasil, " + x )
+    return "Berhasil, hore!"
 
 
 if __name__ == "__main__":
